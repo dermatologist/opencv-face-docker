@@ -1,0 +1,7 @@
+dill
+pillow
+numpy
+opencv
+face_recognition_models
+Click
+dlib
