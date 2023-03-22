@@ -1,6 +1,3 @@
-dill
-pillow
 numpy
-opencv
-Click
+opencv-python-headless
 dlib
